@@ -1,5 +1,9 @@
-### Aoba!! Eu sou o Alexandre Zenas. Atualmente estudo Front-end e sou fascinado por cryptos.
-
+### Aoba!! Eu sou o Alexandre Zenas.
+ Atualmente estudo Front-end e sou fascinado por cryptos.<br>
+ Faço faculdade de desenvolvimento de sistemas pela IBMR.<br>
+ Moro em Guaratiba, Rio de Janeiro.
+ <br>
+ <br>
 <body>
 	<section class="section1">
 		<div class="Skills" style="display: inline_block">
