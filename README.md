@@ -27,3 +27,6 @@
 		</div>
 	</section>
 </body>
+[portifólio.pdf](https://github.com/AlexandreZenas/Alexandrezenas/files/8289938/portifolio.pdf)
+
+			
