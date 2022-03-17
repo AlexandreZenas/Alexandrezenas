@@ -3,6 +3,7 @@
  Amo tecnologia, música, finanças, jogos, animes e volêi.
  <br>
  <br>
+ 
 <body>
 	<section class="section1">
 		<div class="Skills" style="display: inline_block">
