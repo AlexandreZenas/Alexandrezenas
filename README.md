@@ -1,6 +1,7 @@
 ### Aoba!! Eu sou o Alexandre Zenas.
  Atualmente estudo Front-end e sou fascinado por cryptos.<br>
  Amo tecnologia, música, finanças, jogos, animes e volêi.
+ Portifólio/Currículo: https://drive.google.com/file/d/1vj0GrIFkS0jIbViM8gJJspTKZbFMj2GC/view?usp=sharing
  <br>
  <br>
  
@@ -27,6 +28,6 @@
 		</div>
 	</section>
 </body>
-[portifólio.pdf](https://github.com/AlexandreZenas/Alexandrezenas/files/8289938/portifolio.pdf)
+
 
 			
