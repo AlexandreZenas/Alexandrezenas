@@ -1,6 +1,6 @@
 ### Aoba!! Eu sou o Alexandre Zenas.
  Atualmente estudo Front-end e sou fascinado por cryptos.<br>
- Amo tecnologia, música, finanças, jogos, animes e volêi.
+ Amo tecnologia, música, finanças, jogos, animes e volêi.<br>
  Portifólio/Currículo: https://drive.google.com/file/d/1vj0GrIFkS0jIbViM8gJJspTKZbFMj2GC/view?usp=sharing
  <br>
  <br>
