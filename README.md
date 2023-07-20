@@ -1,5 +1,5 @@
 ### Aoba!! Eu sou o Alexandre Zenas.
- Atualmente estudo Front-end e um pouco de back-end.<br>
+ Atualmente estudo Front-end.<br>
  Amo tecnologia, música e finanças.<br>
  Portifólio/Currículo: https://drive.google.com/file/d/1VHWXY4X4wLBBjNVQ5oRG9CuAFuZxv-4H/view?usp=sharing
  <br>
