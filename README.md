@@ -4,4 +4,4 @@
  Portifólio: https://alexandrezenas.github.io/portfolio/
  
 ### Tecnologias e ferramentas
-React, Node, Tailwindcss, git. 
+React, Node, Tailwindcss, C, git. 
