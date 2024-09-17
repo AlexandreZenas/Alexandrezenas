@@ -32,7 +32,7 @@
 ###
 
 * [ImpulseOn Agency](https://impulseonagency.com/) <br>
-* [portifólio](https://alexandrezenas.github.io/portfolio/) <br>
+* [Meu Portifólio](https://alexandrezenas.github.io/portfolio/) <br>
 * [Vidraçaria SilverGlass](https://xn--vidraariasilverglass-70b.com.br/) <br>
 * [Quality Cleaning Bl](https://qualitycleaningbl.com/) <br>
 
