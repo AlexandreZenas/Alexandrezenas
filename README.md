@@ -13,15 +13,9 @@
   <a href="https://www.linkedin.com/in/alexandre-zenas-819b3163/" target="_blank" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="stats         graph"  />
   </a>
-  <a href="https://www.linkedin.com/in/alexandre-zenas-819b3163/" target="_blank" >
+  <a href="https://www.instagram.com/alexandrezenas/" target="_blank" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="stats       graph"  />
   </a>
-  <a href="https://www.linkedin.com/in/alexandre-zenas-819b3163/" target="_blank" >
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="32" alt="stats           graph"  />
-  </a>
-
-
-
 </div>
 
 ###
