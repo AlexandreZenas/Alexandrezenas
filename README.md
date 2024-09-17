@@ -31,13 +31,10 @@
 
 ###
 
+* [ImpulseOn Agency](https://impulseonagency.com/) <br>
 * [portifólio](https://alexandrezenas.github.io/portfolio/) <br>
-*  Link two <br>
-*  Link three
-
-###
-
-<img src="https://raw.githubusercontent.com/alexandrezenas/alexandrezenas/output/snake.svg" alt="Snake animation" />
+* [Vidraçaria SilverGlass](https://xn--vidraariasilverglass-70b.com.br/) <br>
+* [Quality Cleaning Bl](https://qualitycleaningbl.com/) <br>
 
 ###
 
