@@ -22,7 +22,7 @@
 
 * [portifólio](https://alexandrezenas.github.io/portfolio/) <br>
 *  Link two <br>
-*  Link three <br>
+*  Link three
 
 ###
 
