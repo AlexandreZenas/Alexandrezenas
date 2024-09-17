@@ -20,9 +20,9 @@
 
 ###
 
-[portifólio](https://alexandrezenas.github.io/portfolio/)
-<br>Link two
-<br>Link three
+*[portifólio](https://alexandrezenas.github.io/portfolio/)
+*<br>Link two
+*Link three
 
 ###
 
