@@ -1,8 +1,8 @@
-<h1 align="center">Hello World</h1>
+<h1 align="center">Hello World 👋,  I'm Alexandre zenas! </h1>
 
 ###
 
-<p align="left">Hi 👋, I'm Alexandre zenas! A passionate software development  student from Brazil.</p>
+<p align="left">A passionate software development  student from Brazil.</p>
 
 ###
 
