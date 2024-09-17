@@ -27,12 +27,12 @@
 
 ###
 
-<h2 align="left">Portfolio:</h2>
+<h2 align="left">Projects created:</h2>
 
 ###
 
 * [ImpulseOn Agency](https://impulseonagency.com/) <br>
-* [Meu Portifólio](https://alexandrezenas.github.io/portfolio/) <br>
+* [My Portfolio](https://alexandrezenas.github.io/portfolio/) <br>
 * [Vidraçaria SilverGlass](https://xn--vidraariasilverglass-70b.com.br/) <br>
 * [Quality Cleaning Bl](https://qualitycleaningbl.com/) <br>
 
