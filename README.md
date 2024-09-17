@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrezenas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
+<br/>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/alexandre-zenas-819b3163/" target="_blank" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="stats         graph"  />
