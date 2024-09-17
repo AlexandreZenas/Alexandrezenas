@@ -26,7 +26,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alexandrezenas/alexandrezenas/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alexandrezenas/alexandrezenas/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
