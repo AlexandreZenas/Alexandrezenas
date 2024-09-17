@@ -10,17 +10,9 @@
 *  🔭 I created a development and marketing agency to put into practice everything I learned studying front end, but I'm looking for new challenges and looking for an opportunity in JAVA.</p>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alexandre-zenas-819b3163/" target="_blank" >
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="stats         graph"  />
-  </a>
-  <a href="https://www.instagram.com/alexandrezenas/" target="_blank" >
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="stats       graph"  />
-  </a>
-</div>
-
-<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrezenas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
 ###
 
 <h2 align="left">Projects created:</h2>
@@ -31,6 +23,16 @@
 * [My Portfolio](https://alexandrezenas.github.io/portfolio/) <br>
 * [Vidraçaria SilverGlass](https://xn--vidraariasilverglass-70b.com.br/) <br>
 * [Quality Cleaning Bl](https://qualitycleaningbl.com/) <br>
+
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alexandre-zenas-819b3163/" target="_blank" >
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="stats         graph"  />
+  </a>
+  <a href="https://www.instagram.com/alexandrezenas/" target="_blank" >
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="stats       graph"  />
+  </a>
+</div>
 
 ###
 
