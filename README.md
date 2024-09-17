@@ -10,7 +10,7 @@
 *  🔭 I created a development and marketing agency to put into practice everything I learned studying front end, but I'm looking for new challenges and looking for an opportunity in JAVA.</p>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="stats graph"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="stats graph"  />
 </div>
 
 ###
