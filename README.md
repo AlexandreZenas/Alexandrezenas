@@ -20,7 +20,9 @@
 
 ###
 
-<p align="left">[portifólio](https://alexandrezenas.github.io/portfolio/)<br>Link two<br>Link three</p>
+[portifólio](https://alexandrezenas.github.io/portfolio/)
+<br>Link two
+<br>Link three
 
 ###
 
