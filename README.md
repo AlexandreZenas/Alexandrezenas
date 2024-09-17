@@ -24,7 +24,12 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrezenas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
+###
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+    <img src="/resources/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
 ###
 
 <h2 align="left">Projects created:</h2>
